@@ -1,0 +1,67 @@
+{
+  "hdjesus": {
+    "proyectos": [
+      {
+        "id": 1,
+        "title": "Producto digital",
+        "description": "Sitio web  de un portal de compras de procutos con pasarela de pago a Paypal asociado",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Google Clon",
+        "description": "Clon de Google",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Wikipedia Clon",
+        "description": "Clon de la pagina de Wikipeida realizada con la finalidad de reforzar conocimientos en CSS GRID",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Calculator",
+        "description": "Creacion de una calculadora con HTML, CSS y Javascript",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Platte Restaurant",
+        "description": "Sitio web oficial del restaurante Platte ",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Pokedex",
+        "description": "Pokedex de la serie animada Pokemon, como practica para consultar APIS",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Primavera Restaurant",
+        "description": "Sitio web oficial del restaurante Primavera",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Your Date",
+        "description": "Aplicacion web para calcular tu edad en distintas unidades de tiempo",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Simon say",
+        "description": "Creacion de un juego interactivo con Javascript,CSS y HTML llamado Simon dice",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Mural",
+        "description": "Creacion de un mural web como practica de CSS Grid",
+        "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg"
+      }
+    ],
+    "blogs": [{}]
+  }
+}
