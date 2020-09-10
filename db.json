@@ -4,84 +4,84 @@
       {
         "id": 13,
         "title": "Mortifero Rick",
-        "description": "Single Page Aplication realizada con Javascript vanilla de una coleccion de personajes de la serie animada Rick and Morty",
+        "description": "Single Page Aplication,realizada con Javascript vanilla de una coleccion de personajes de la serie animada Rick and Morty.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Mortifero-Rick"
       },
       {
         "id": 12,
         "title": "Reloj",
-        "description": "Reloj digital realizado con CSS, HTML y Javascript vanilla",
+        "description": "Reloj digital realizado con CSS, HTML y Javascript vanilla.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Reloj-digital"
       },
       {
         "id": 11,
         "title": "Tibia All",
-        "description": "Sitio web hecho por fans para fans en donde puedes consultar las estadisticas de los diferentes personajes de Tibia",
+        "description": "Sitio web hecho por fans para fans en donde puedes consultar las estadisticas de los diferentes personajes de Tibia.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Tibia-All"
       },
       {
         "id": 10,
         "title": "Instagram Copy",
-        "description": "Clon de Instagram",
+        "description": "Clon de Instagram.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Copy-instagram"
       },
       {
         "id": 9,
         "title": "Platzi Food",
-        "description": "Proyecto web realizado con la finalidad de adquierir habilidades usando Tailwind CSS",
+        "description": "Proyecto web realizado con la finalidad de adquierir habilidades usando Tailwind CSS.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/platziFood"
       },
       {
         "id": 8,
         "title": "Mural",
-        "description": "Creacion de un mural web como practica de CSS Grid",
+        "description": "Creacion de un mural web como practica de CSS Grid.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/mural"
       },
       {
         "id": 7,
         "title": "Simon say",
-        "description": "Creacion de un juego interactivo con Javascript,CSS y HTML llamado Simon dice",
+        "description": "Creacion de un juego interactivo con Javascript,CSS y HTML llamado Simon dice.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Simon-Says"
       },
       {
         "id": 6,
         "title": "Your Date",
-        "description": "Aplicacion web para calcular tu edad en distintas unidades de tiempo",
+        "description": "Aplicacion web para calcular tu edad en distintas unidades de tiempo.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Your-date"
       },
       {
         "id": 5,
         "title": "Pokedex",
-        "description": "Pokedex de la serie animada Pokemon, como practica para consultar APIS",
+        "description": "Pokedex de la serie animada Pokemon, como practica para consultar APIS.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Pokedex"
       },
       {
         "id": 4,
         "title": "Platte Restaurant",
-        "description": "Sitio web oficial del restaurante Platte ",
+        "description": "Sitio web oficial del restaurante Platte.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Platte-restaurant"
       },
       {
         "id": 3,
         "title": "Calculator",
-        "description": "Creacion de una calculadora con HTML, CSS y Javascript",
+        "description": "Creacion de una calculadora con HTML, CSS y Javascript.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/calculator"
       },
       {
         "id": 2,
         "title": "Wikipedia Clon",
-        "description": "Clon de la pagina de Wikipeida realizada con la finalidad de reforzar conocimientos en CSS GRID",
+        "description": "Clon de la pagina de Wikipeida realizada con la finalidad de reforzar conocimientos en CSS GRID.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Clone-Wikipedia"
       },
@@ -89,7 +89,7 @@
       {
         "id": 1,
         "title": "Google Clon",
-        "description": "Clon de Google",
+        "description": "Clon de Google.",
         "img": "https://image.freepik.com/psd-gratis/logo-maqueta-cerrar-libro-blanco_145275-125.jpg",
         "github": "https://github.com/hdmjesus/Google-clon"
       }
