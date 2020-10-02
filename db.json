@@ -22,7 +22,7 @@
         "id": 10,
         "title": "Tibia All",
         "description": "Sitio web hecho por fans para fans en donde puedes consultar las estadisticas de los diferentes personajes de Tibia.",
-        "img": "https://i.imgur.com/jlMMLTT.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/tibiaAll_pc9cg4.webp",
         "github": "https://github.com/hdmjesus/Tibia-All",
         "online": "https://hdmjesus.github.io/Tibia-All/"
       },
@@ -30,7 +30,7 @@
         "id": 9,
         "title": "Instagram Copy",
         "description": "Clon de Instagram.",
-        "img": "https://i.imgur.com/2buENYW.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/InstagramCopy_ncm95j.webp",
         "github": "https://github.com/hdmjesus/Copy-instagram",
         "online": ""
       },
@@ -46,7 +46,7 @@
         "id": 7,
         "title": "Mural",
         "description": "Creacion de un mural web como practica de CSS Grid.",
-        "img": "https://i.imgur.com/qID05oa.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/mural_a5xfgl.webp",
         "github": "https://github.com/hdmjesus/mural",
         "online": "https://hdmjesus.github.io/mural/"
       },
@@ -54,7 +54,7 @@
         "id": 6,
         "title": "Simon say",
         "description": "Creacion de un juego interactivo con Javascript,CSS y HTML llamado Simon dice.",
-        "img": "https://i.imgur.com/giixxqU.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/simonSay_kgnfjt.webp",
         "github": "https://github.com/hdmjesus/Simon-Says",
         "online": "https://hdmjesus.github.io/Simon-Says/"
       },
@@ -62,7 +62,7 @@
         "id": 5,
         "title": "Your Date",
         "description": "Aplicacion web para calcular tu edad en distintas unidades de tiempo.",
-        "img": "https://i.imgur.com/la3nIen.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/yourDate_nx6x2m.webp",
         "github": "https://github.com/hdmjesus/Your-date",
         "online": "https://hdmjesus.github.io/Your-date/"
       },
@@ -71,7 +71,7 @@
         "id": 4,
         "title": "Platte Restaurant",
         "description": "Sitio web oficial del restaurante Platte.",
-        "img": "https://i.imgur.com/GOWbKCk.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/platteRestaurant_wsnqmo.webp",
         "github": "https://github.com/hdmjesus/Platte-restaurant",
         "online": "https://hdmjesus.github.io/Platte-restaurant/"
       },
@@ -79,7 +79,7 @@
         "id": 3,
         "title": "Calculator",
         "description": "Creacion de una calculadora con HTML, CSS y Javascript.",
-        "img": "https://i.imgur.com/TiE43UQ.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/calculator_v2cbam.webp",
         "github": "https://github.com/hdmjesus/calculator",
         "online": "https://hdmjesus.github.io/calculator/"
       },
@@ -87,7 +87,7 @@
         "id": 2,
         "title": "Wikipedia Clon",
         "description": "Clon de la pagina de Wikipeida realizada con la finalidad de reforzar conocimientos en CSS GRID.",
-        "img": "https://i.imgur.com/j6Z9moC.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/wikipediaClone_ln7vht.webp",
         "github": "https://github.com/hdmjesus/Clone-Wikipedia",
         "online": ""
       },
@@ -96,7 +96,7 @@
         "id": 1,
         "title": "Google Clon",
         "description": "Clon de Google.",
-        "img": "https://i.imgur.com/Z8iOl2h.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/googleClone_hpr2ig.webp",
         "github": "https://github.com/hdmjesus/Google-clon",
         "online": ""
       }
