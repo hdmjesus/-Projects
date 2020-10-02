@@ -13,7 +13,7 @@
         "id": 11,
         "title": "Pokedex",
         "description": "Pokedex de la serie animada Pokemon, como practica para consultar APIS.",
-        "img": "https://i.imgur.com/5oMsFAg.png",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/pokedex_ykxeuu.webp",
         "github": "https://github.com/hdmjesus/Pokedex",
         "online": "https://hdmjesus.github.io/Pokedex/"
       },
