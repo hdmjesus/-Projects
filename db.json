@@ -2,6 +2,14 @@
   "hdjesus": {
     "proyectos": [
       {
+        "id": 13,
+        "title": "Cartoon Video",
+        "description": "Reproductor de video realizado usando React , REDUX y React-Router",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/cartoonVideo_mqxqnt.webp",
+        "github": "https://github.com/hdmjesus/Cartoon-video",
+        "online": ""
+      },
+      {
         "id": 12,
         "title": "Mortifero Rick",
         "description": "Single Page Aplication,realizada con Javascript vanilla de una coleccion de personajes de la serie animada Rick and Morty.",
