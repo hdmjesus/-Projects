@@ -7,7 +7,7 @@
         "description": "Reproductor de video realizado usando React , REDUX y React-Router.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/cartoonVideo_mqxqnt.webp",
         "github": "https://github.com/hdmjesus/Cartoon-video",
-        "online": ""
+        "online": "https://cartoon-video.netlify.app/"
       },
       {
         "id": 12,
