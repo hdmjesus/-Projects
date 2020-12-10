@@ -11,7 +11,11 @@
       },
       {
         "id": 14,
+<<<<<<< HEAD
         "title": "CriptoExchange",
+=======
+        "title": "CriptoEchange",
+>>>>>>> b71e947fc7181b202b2632c3a3bdf5fb434cf31e
         "description": "Aplicacion web para consultar el valor de distintos criptoativos, creado con VueJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con Vue como tecnologia.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1607563796/criptoexchange_a7dxik.webp",
         "github": "https://github.com/hdmjesus/moneyExchange-Vue",
