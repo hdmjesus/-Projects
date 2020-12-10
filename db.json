@@ -2,6 +2,23 @@
   "hdjesus": {
     "proyectos": [
       {
+        "id": 15,
+        "title": "Wheather App",
+        "description": "Aplicacion web para consultar el estado meteorologico de distintas ciudades, creado con ReactJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con React como tecnologia.",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1607563796/weather-hd_p6ghku.webp",
+        "github": "https://github.com/hdmjesus/weather-hd",
+        "online": "https://weather-hd.netlify.app"
+      },
+      {
+        "id": 14,
+        "title": "CriptoExchange",
+        "description": "Aplicacion web para consultar el valor de distintos criptoativos, creado con VueJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con Vue como tecnologia.",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1607563796/criptoexchange_a7dxik.webp",
+        "github": "https://github.com/hdmjesus/moneyExchange-Vue",
+        "online": "https://criptoexchangevue.netlify.app"
+      },
+
+      {
         "id": 13,
         "title": "Cartoon Video",
         "description": "Reproductor de video realizado usando React , REDUX y React-Router.",
