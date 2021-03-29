@@ -44,30 +44,6 @@
       },
 
       {
-        "id": 10,
-        "title": "Tibia All",
-        "description": "Sitio web hecho por fans para fans en donde puedes consultar las estadisticas de los diferentes personajes de Tibia.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/tibiaAll_pc9cg4.webp",
-        "github": "https://github.com/hdmjesus/Tibia-All",
-        "online": "https://hdmjesus.github.io/Tibia-All/"
-      },
-      {
-        "id": 9,
-        "title": "Instagram Copy",
-        "description": "Clon de Instagram.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/InstagramCopy_ncm95j.webp",
-        "github": "https://github.com/hdmjesus/Copy-instagram",
-        "online": ""
-      },
-      {
-        "id": 8,
-        "title": "Platzi Food",
-        "description": "Proyecto web realizado con la finalidad de adquierir habilidades usando Tailwind CSS.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601661365/platziFood_jy4mfl.webp",
-        "github": "https://github.com/hdmjesus/platziFood",
-        "online": ""
-      },
-      {
         "id": 7,
         "title": "Mural",
         "description": "Creacion de un mural web como practica de CSS Grid.",
@@ -93,37 +69,12 @@
       },
 
       {
-        "id": 4,
-        "title": "Platte Restaurant",
-        "description": "Sitio web oficial del restaurante Platte.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/platteRestaurant_wsnqmo.webp",
-        "github": "https://github.com/hdmjesus/Platte-restaurant",
-        "online": "https://hdmjesus.github.io/Platte-restaurant/"
-      },
-      {
         "id": 3,
         "title": "Calculator",
         "description": "Creacion de una calculadora con HTML, CSS y Javascript.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/calculator_v2cbam.webp",
         "github": "https://github.com/hdmjesus/calculator",
         "online": "https://hdmjesus.github.io/calculator/"
-      },
-      {
-        "id": 2,
-        "title": "Wikipedia Clon",
-        "description": "Clon de la pagina de Wikipeida realizada con la finalidad de reforzar conocimientos en CSS GRID.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/wikipediaClone_ln7vht.webp",
-        "github": "https://github.com/hdmjesus/Clone-Wikipedia",
-        "online": ""
-      },
-
-      {
-        "id": 1,
-        "title": "Google Clon",
-        "description": "Clon de Google.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/googleClone_hpr2ig.webp",
-        "github": "https://github.com/hdmjesus/Google-clon",
-        "online": ""
       }
     ]
   }
