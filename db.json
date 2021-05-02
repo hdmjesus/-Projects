@@ -2,7 +2,7 @@
   "hdjesus": {
     "proyectos": [
       {
-        "id": 15,
+        "id": 7,
         "title": "Wheather App",
         "description": "Aplicacion web para consultar el estado meteorologico de distintas ciudades, creado con ReactJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con React como tecnologia.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1607563796/weather-hd_p6ghku.webp",
@@ -10,7 +10,7 @@
         "online": "https://weather-hd.netlify.app"
       },
       {
-        "id": 14,
+        "id": 6,
         "title": "CriptoExchange",
         "description": "Aplicacion web para consultar el valor de distintos criptoativos, creado con VueJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con Vue como tecnologia.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1607563796/criptoexchange_a7dxik.webp",
@@ -19,7 +19,7 @@
       },
 
       {
-        "id": 13,
+        "id": 5,
         "title": "Cartoon Video",
         "description": "Reproductor de video realizado usando React , REDUX y React-Router.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/cartoonVideo_mqxqnt.webp",
@@ -27,7 +27,7 @@
         "online": "https://cartoon-video.netlify.app/"
       },
       {
-        "id": 12,
+        "id": 4,
         "title": "Mortifero Rick",
         "description": "Single Page Aplication,realizada con Javascript vanilla de una coleccion de personajes de la serie animada Rick and Morty.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601661199/rickMorty_qcinbd.webp",
@@ -35,7 +35,7 @@
         "online": "https://hdmjesus.github.io/Mortifero-Rick/"
       },
       {
-        "id": 11,
+        "id": 3,
         "title": "Pokedex",
         "description": "Pokedex de la serie animada Pokemon, como practica para consultar APIS.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/pokedex_ykxeuu.webp",
@@ -44,38 +44,24 @@
       },
 
       {
-        "id": 7,
+        "id": 2,
         "title": "Mural",
         "description": "Creacion de un mural web como practica de CSS Grid.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/mural_a5xfgl.webp",
         "github": "https://github.com/hdmjesus/mural",
         "online": "https://hdmjesus.github.io/mural/"
       },
+      
       {
-        "id": 6,
-        "title": "Simon say",
-        "description": "Creacion de un juego interactivo con Javascript,CSS y HTML llamado Simon dice.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/simonSay_kgnfjt.webp",
-        "github": "https://github.com/hdmjesus/Simon-Says",
-        "online": "https://hdmjesus.github.io/Simon-Says/"
-      },
-      {
-        "id": 5,
+        "id": 1,
         "title": "Your Date",
         "description": "Aplicacion web para calcular tu edad en distintas unidades de tiempo.",
         "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/yourDate_nx6x2m.webp",
         "github": "https://github.com/hdmjesus/Your-date",
         "online": "https://hdmjesus.github.io/Your-date/"
-      },
-
-      {
-        "id": 3,
-        "title": "Calculator",
-        "description": "Creacion de una calculadora con HTML, CSS y Javascript.",
-        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1601613074/calculator_v2cbam.webp",
-        "github": "https://github.com/hdmjesus/calculator",
-        "online": "https://hdmjesus.github.io/calculator/"
       }
+
+  
     ]
   }
 }
