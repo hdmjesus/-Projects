@@ -2,6 +2,38 @@
   "hdjesus": {
     "proyectos": [
       {
+        "id": 11,
+        "title": "HeroApp",
+        "description": "Catalogo de super heroes construido en React ,se pueden consultar los los heroes segun el publicador, buscar por heroe y cuenta con sistema de login de usuario. ",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1622005815/ipTracker_ys1s4p.webp",
+        "github": "https://github.com/hdmjesus/HeroesApp",
+        "online": "https://heroesapp-hdjesus.netlify.app"
+      },
+      {
+        "id": 10,
+        "title": "IP Tracker Address",
+        "description": "Aplicacion web construida en React que renderiza un mapa con la ubicacion geografica de la direccion IP o nombre de dominio que se busca.",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1622005815/ipTracker_ys1s4p.webp",
+        "github": "https://github.com/hdmjesus/ip-address-tracker",
+        "online": "https://tracker-address.netlify.app/"
+      },
+      {
+        "id": 9,
+        "title": "VPS Doll",
+        "description": "Sitio web oficial de VPS Doll Care un centro de belleza y depilacion.",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1618804131/ezgif.com-gif-maker_1_mpy6l6.webp",
+        "github": "https://github.com/hdmjesus/vps-doll-care",
+        "online": "https://vpsdoll.netlify.app/"
+      },
+      {
+        "id": 8,
+        "title": "Count Down",
+        "description": "Contador de cuenta regresiva creado en React.",
+        "img": "https://res.cloudinary.com/dzp98wbza/image/upload/v1618804131/ezgif.com-gif-maker_pdhvgo.webp",
+        "github": "https://github.com/hdmjesus/countdown-timer",
+        "online": "https://countdownhd.netlify.app/"
+      },
+      {
         "id": 7,
         "title": "Wheather App",
         "description": "Aplicacion web para consultar el estado meteorologico de distintas ciudades, creado con ReactJs como framework de frontend, tailwind CSS usado para dar los estilos, este proyecto fue elaborado para afianzar conocimientos con React como tecnologia.",
